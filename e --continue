@@ -1,0 +1,17 @@
+[33mcommit 2f2d003f006729f87ba9f1f12d3a6c9fdcf1ec93[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Shikongo Shekupe <inekela34@gmail.com>
+Date:   Fri Dec 27 14:52:24 2024 +0000
+
+    Remove flagged secret files
+
+[33mcommit b3d39ad62c0cabf5f58729e5e3772065e1813c3f[m
+Author: Shikongo Shekupe <inekela34@gmail.com>
+Date:   Fri Dec 27 14:34:35 2024 +0000
+
+    Initial commit with universe.sql
+
+[33mcommit ac2c6f6549226943ba33dab6a232355bcdb6b993[m
+Author: Shikongo Shekupe <inekela34@gmail.com>
+Date:   Fri Dec 27 13:29:17 2024 +0000
+
+    Add universe.sql file
